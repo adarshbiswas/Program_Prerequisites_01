@@ -10,6 +10,6 @@ public class Problem_02 {
         int b = sc.nextInt();
         int sum = a + b;
         System.out.println("The sum of two numbers is: " + sum );
-        
+        sc.close();
     }
 }
